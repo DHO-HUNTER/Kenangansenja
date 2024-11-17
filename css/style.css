@@ -1,7 +1,8 @@
-:root{
+:root {
   --primary: #b6895b;
   --bg: #010101;
 }
+
 * {
     padding: 0;
     margin: 0;
