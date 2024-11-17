@@ -1,7 +1,7 @@
 :root {
     --primary: #b6895b;
     --bg: #010101;
-    background-image:url("image/image.jpg");
+    background-image:url(image/image.jpg);
 }
 
 * {
@@ -92,7 +92,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url("image/image.jpg");
+    background-image: url(image/image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
