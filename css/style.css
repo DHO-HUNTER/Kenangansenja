@@ -1,7 +1,6 @@
 :root{
-  --primary:#b6895b
-  --bg:#010101
-
+  --primary: #b6895b
+  --bg: #010101
 }
 * {
     padding: 0;
