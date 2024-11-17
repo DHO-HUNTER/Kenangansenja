@@ -1,9 +1,3 @@
-:root {
-    --primary: #b6895b;
-    --bg: #010101;
-    background-image:url(image/image.jpg);
-}
-
 * {
     padding: 0;
     margin: 0;
