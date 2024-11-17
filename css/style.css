@@ -1,7 +1,7 @@
 :root {
     --primary: #b6895b;
     --bg: #010101;
-    url("image/image.jpg")
+    background-ìmage:url("image/image.jpg");
 }
 
 * {
