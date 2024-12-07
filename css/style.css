@@ -91,7 +91,7 @@ body {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-image: url(../image/kopi.jpg);
+    background-image: url('../image/kopi.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -133,7 +133,7 @@ body {
     line-height: 1.2;
     mix-blend-mode: difference;
     display: flex;
-    justify-content:center;
+    justify-content: center;
     align-items: center;
     position: center;
 }
